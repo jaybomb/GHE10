@@ -6,6 +6,7 @@ Favorite Foods
 Lobster & Crab Legs 
 Double Cheeseburger
 Spaghetti and Chicken Parm
+Beans and Franks
 
 =======
 
@@ -14,3 +15,4 @@ Favorite Movies
 Rush Hour
 Pulp Fiction
 Batman Begins
+The Fifth Element
